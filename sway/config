@@ -62,7 +62,7 @@ client.urgent           $color_urgent            $color_urgent       $color_urge
 	bindsym $mod+Return exec $term
 
 # Start wofi
-	set $search wofi --show run
+	set $search wofi --show
 	bindsym $mod+Space exec $search
 
 # Start Browser
