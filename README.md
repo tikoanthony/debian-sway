@@ -1,4 +1,18 @@
-<h1>Personal Sway and Waybar config<h1>
+#Gray SwayWM Config
+This is Gray theme for SwayWM
 
-<h2>This is my Sway config on my Debian Bookworm machine.<h2>
-<h3>Feel free to use if you want!<h3>
+Important: always back up your data before doing anything :D
+
+Required packages:
+```
+sway swaybg swayimg waybar wlogout kitty wofi light fonts-font-awesome \
+grim thunar pavucontrol 
+```
+
+Installing:
+1. Copy default sway, waybar, and wofi folder in your .config to template
+2. If in your .config didn't have that folder, then
+3. Copy the sway, waybar, and wofi folder to .config
+4. Restart sway by pressing modkey+shift+c
+
+There you go.
