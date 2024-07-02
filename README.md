@@ -1,4 +1,4 @@
-#Gray SwayWM Config
+# Gray SwayWM Config
 This is Gray theme for SwayWM
 
 Important: always back up your data before doing anything :D
